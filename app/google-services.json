@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "433114475364",
+    "project_id": "farmirrigationadvisor",
+    "storage_bucket": "farmirrigationadvisor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433114475364:android:9f54cf32103367f542e871",
+        "android_client_info": {
+          "package_name": "com.example.farmirrigationadvisor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433114475364-pf2f2dntrktvnmf7ikd56ic7enslkqff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.farmirrigationadvisor",
+            "certificate_hash": "50eeb9d8bdb688b0d2ed5e1159e5efd2c6031151"
+          }
+        },
+        {
+          "client_id": "433114475364-j8of30cfqm4od8p05apmss8oug9832je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-DlLJXWRRYoiNTGxB_4b_O1scLnhNTg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433114475364-j8of30cfqm4od8p05apmss8oug9832je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Farm Irrigation Advisor</string>
+    <string name="default_web_client_id">dummy_client_id</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_add_farm">Add Farm</string>
+    <string name="nav_history">History</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Dashboard -->
+    <string name="welcome_farmer">Welcome, %s!</string>
+    <string name="farm_location_label">Farm: %1$s (%2$s)</string>
+    <string name="no_farm_added">No farm added yet. Please add a farm.</string>
+    <string name="irrigation_recommendation_title">Irrigation Recommendation</string>
+    <string name="status_irrigate">IRRIGATE</string>
+    <string name="status_not_needed">NOT NEEDED</string>
+    <string name="rainfall_label">Rainfall</string>
+    <string name="et0_label">Evapotranspiration (ET0)</string>
+    <string name="soil_moisture_label">Soil Moisture</string>
+    <string name="forecast_7_day">7-Day Weather Forecast</string>
+
+    <!-- Add Farm -->
+    <string name="add_farm_title">Register New Farm</string>
+    <string name="farm_name_hint">Farm Name (e.g. Green Valley Farm)</string>
+    <string name="select_crop_hint">Select Crop Type</string>
+    <string name="get_current_location">Capture GPS Location</string>
+    <string name="latitude_label">Latitude: %s</string>
+    <string name="longitude_label">Longitude: %s</string>
+    <string name="btn_save_farm">Save Farm Details</string>
+
+    <!-- History -->
+    <string name="irrigation_history_title">Irrigation Logs</string>
+    <string name="btn_add_irrigation_log">Log Irrigation</string>
+    <string name="no_history_records">No irrigation records logged yet.</string>
+    <string name="duration_minutes_hint">Duration in Minutes (e.g. 45)</string>
+    <string name="notes_hint">Notes / Notes about crop (optional)</string>
+
+    <!-- Profile -->
+    <string name="profile_title">Farmer Profile</string>
+    <string name="btn_logout">Logout</string>
+</resources>
